@@ -1,10 +1,11 @@
-# sistema_de_rh
-Projeto de banco de dados de RH com SQL — tabelas, inserts e consultas.
-sistema-rh-sql/
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── inserts.sql
-│   └── consultas.sql
-│
-└── README.md
+# Sistema de RH (Banco de Dados SQL)
+
+Este projeto consiste na criação de um banco de dados completo para a área de Recursos Humanos, incluindo:
+
+- Modelagem relacional
+- Criação das tabelas
+- População com dados fictícios
+- Consultas SQL analíticas
+
+## 📌 Estrutura do projeto
+
