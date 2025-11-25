@@ -7,7 +7,7 @@ Este projeto consiste na criação de um banco de dados completo para a área de
 - População com dados fictícios
 - Consultas SQL analíticas
 
-## 📌 Estrutura do projeto
+##  Estrutura do projeto
 sistema-rh-sql/
 │
 ├── sql/
@@ -18,16 +18,16 @@ sistema-rh-sql/
 └── README.md
 
 
-## 🛠 Tecnologias
+##  Tecnologias
 - SQL
 - MySQL (compatível também com MariaDB e PostgreSQL)
 
-## 📊 Consultas incluídas
+##  Consultas incluídas
 - Funcionários por departamento  
 - Média salarial por cargo  
 - Folha mensal total  
 - Custo de horas extras  
 - Funcionários admitidos recentemente  
 
-## 👩‍💻 Autora
+##  Autora
 **Giovanna Gallo**
